@@ -48,6 +48,6 @@ flutter:
         pluginClass: SentcFlutterSecureStoragePlugin
       windows:
         pluginClass: SentcFlutterSecureStoragePluginCApi
-      web:
-        pluginClass: SentcFlutterSecureStorageWeb
-        fileName: sentc_flutter_secure_storage_web.dart
+#      web:
+#        pluginClass: SentcFlutterSecureStorageWeb
+#        fileName: sentc_flutter_secure_storage_web.dart
