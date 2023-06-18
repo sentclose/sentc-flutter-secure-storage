@@ -3,6 +3,7 @@ import 'dart:typed_data';
 import 'package:sentc/sentc.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
+/// The storage implementation for flutter_secure_storage
 class SecureStorage implements StorageInterface {
   late FlutterSecureStorage storage;
 
